@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace CMS.Controllers
+namespace CMS.Admin.Controllers
 {
     public class HomeController : Controller
     {
@@ -10,11 +10,6 @@ namespace CMS.Controllers
         }
 
         public IActionResult Privacy()
-        {
-            return View();
-        }
-
-        public IActionResult Contact()
         {
             return View();
         }
