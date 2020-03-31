@@ -1,0 +1,27 @@
+﻿.header {
+    background: #E91E63;
+}
+
+.btn-primary {
+    background-color: #A61646;
+}
+
+    .btn-primary:hover {
+        background-color: #8C123B;
+    }
+
+a {
+    color: #FF80AA;
+}
+
+.header .nav-item.active .nav-link {
+    color: white;
+}
+
+.blog-nav .nav-link:hover {
+    background-color: #8C123B;
+}
+
+.blog-nav .nav-link {
+    background-color: #A61646;
+}
